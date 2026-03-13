@@ -8,7 +8,7 @@
 ## 🧠 Sobre mim
 
 - 🌱 Sempre buscando aprender algo novo em tecnologia
-- 🔧 Experiência com **projetos em Java**, **front-end básico** e **desenvolvimento de jogos**
+- 🔧 Experiência com **projetos em Java** e **front-end básico**
 
 ---
 
@@ -23,7 +23,6 @@
 ### 🧰 Ferramentas e Plataformas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GameMaker](https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
